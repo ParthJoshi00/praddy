@@ -1,2 +1,3 @@
 this is my first commit!
-thsi is feature branch with the point start master
+
+this is feature branch with the point start master!
